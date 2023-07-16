@@ -1,0 +1,43 @@
+As a DevOps engineer, there are several important commands and tools you should be familiar with. Here's a list of some commonly used commands:
+
+Git:
+
+git clone: Clone a repository.
+git pull: Fetch and merge changes from a remote repository.
+git add: Add changes to the staging area.
+git commit: Commit changes to the local repository.
+git push: Push changes to a remote repository.
+Docker:
+
+docker build: Build a Docker image from a Dockerfile.
+docker run: Run a Docker container.
+docker stop: Stop a running container.
+docker ps: List running containers.
+docker images: List available Docker images.
+Kubernetes:
+
+kubectl apply: Apply a configuration to a Kubernetes cluster.
+kubectl get: Retrieve information about resources in a cluster.
+kubectl describe: Display detailed information about a resource.
+kubectl logs: Fetch the logs of a container.
+kubectl scale: Scale the number of replicas of a resource.
+Package Managers:
+
+npm install: Install Node.js packages.
+pip install: Install Python packages.
+gem install: Install Ruby gems.
+apt-get install: Install packages on Debian-based systems.
+yum install: Install packages on Red Hat-based systems.
+Continuous Integration/Continuous Deployment (CI/CD):
+
+jenkins: Command-line interface for Jenkins automation server.
+travis: Command-line interface for Travis CI.
+circleci: Command-line interface for CircleCI.
+gitlab-ci: Command-line interface for GitLab CI/CD.
+System and Network Utilities:
+
+ssh: Connect to a remote server via SSH.
+scp: Securely copy files between hosts over SSH.
+curl: Transfer data from or to a server.
+ping: Send ICMP echo requests to a network host.
+netstat: Network statistics and connections monitoring.
